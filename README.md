@@ -10,7 +10,7 @@
 
 
 
-#  :memo: Projects![portfolio-join]()
+#  :memo:
 
 <a href="https://example.com" style="display: block; width: 300px;">
   <img src="https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f"/>
