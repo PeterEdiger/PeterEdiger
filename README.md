@@ -12,9 +12,9 @@
 
 #  :memo: Projects
 
+**Task manager inspired by the Kanban System**  
 <img src="https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f" alt="portfolio-join" width="300"/>  
 
-**Task manager inspired by the Kanban System**
 
 
 ---
