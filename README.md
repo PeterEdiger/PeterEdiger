@@ -8,3 +8,6 @@ Hello, my name is Peter. Welcome to my GitHub profile! I’m a typical bootcampe
 - 🤔 I’m looking for help with coding and projects.
 - 📫 How to reach me: info@peter-ediger.de
 
+![portfolio-join](https://github.com/user-attachments/assets/7b6d58b1-8edd-460f-8dd5-a2214b712d0b)
+
+
