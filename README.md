@@ -13,10 +13,11 @@
 #  :memo:
 
 <a href="https://example.com" style="display: block; width: 200px;">
-  <img src="https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f"/>
+  <img src="https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f" style="width: 100%;"/>
 </a>
 
 ---
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
