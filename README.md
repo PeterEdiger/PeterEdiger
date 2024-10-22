@@ -10,10 +10,9 @@
 
 
 
-#  :memo: Projects![portolio-peter](https://github.com/user-attachments/assets/e5ac8d92-8143-4563-a23b-37d4547a353d)
+#  :memo: Projects
 
-### Pollo Loco -Jump and Run. Based on Object Oriented Programming 
-
+### Portfolio -My Frontend Portfolio 
 <img src="https://github.com/user-attachments/assets/e5ac8d92-8143-4563-a23b-37d4547a353d" alt="portfolio-join" width="300"/> &nbsp;
 
 https://pollo-loco.peter-ediger.de/
