@@ -10,7 +10,8 @@
 
 
 
-#  :memo: Projects
+#  :memo: Projects![portfolio-join](https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f)
+
 
 ---
 
