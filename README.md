@@ -21,7 +21,10 @@ https://peter-ediger.de/
 ---
 
 ### Join -Task manager inspired by the Kanban System  
-[![portfolio](https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f)](https://join.peter-ediger.de/)
+<a href="https://address.com/">
+    <img src="https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f" alt="portfolio" width="300"/>
+</a>
+
 
 
 
