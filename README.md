@@ -14,7 +14,7 @@
 #  :memo: Projects
 
 ### Portfolio -My Frontend Portfolio 
-<a href="https://join.peter-ediger.de/">
+<a href="https://peter-ediger.de/">
     <img src="https://github.com/user-attachments/assets/e5ac8d92-8143-4563-a23b-37d4547a353d" alt="portfolio-join" width="300"/> 
 </a> &nbsp;
 
