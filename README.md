@@ -18,10 +18,6 @@
     <img src="https://github.com/user-attachments/assets/e5ac8d92-8143-4563-a23b-37d4547a353d" alt="portfolio-join" width="300"/> 
 </a> &nbsp;
 
-
-
-
-
 ---
 
 ### Join -Task manager inspired by the Kanban System  
@@ -29,18 +25,13 @@
     <img src="https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f" alt="portfolio" width="300"/>
 </a> &nbsp;
 
-
-
-
-
-
 ---
 
 
 ### Pollo Loco -  Jump and Run. Based on OOP.
 
-<img src="https://github.com/user-attachments/assets/4794bd24-a301-48e8-817c-baecb45dacf9" alt="portfolio-join" width="300"/> &nbsp;
-
-https://pollo-loco.peter-ediger.de/
+<a href="https://pollo-loco.peter-ediger.de/">
+    <img src="https://github.com/user-attachments/assets/4794bd24-a301-48e8-817c-baecb45dacf9" alt="portfolio-join" width="300"/> 
+</a> &nbsp;
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
