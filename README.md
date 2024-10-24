@@ -14,7 +14,12 @@
 #  :memo: Projects
 
 ### Portfolio -My Frontend Portfolio 
-<img src="https://github.com/user-attachments/assets/e5ac8d92-8143-4563-a23b-37d4547a353d" alt="portfolio-join" width="300"/> &nbsp;
+<a href="https://join.peter-ediger.de/">
+    <img src="https://github.com/user-attachments/assets/e5ac8d92-8143-4563-a23b-37d4547a353d" alt="portfolio-join" width="300"/> 
+</a> &nbsp;
+
+
+
 
 https://peter-ediger.de/
 
@@ -23,7 +28,7 @@ https://peter-ediger.de/
 ### Join -Task manager inspired by the Kanban System  
 <a href="https://join.peter-ediger.de/">
     <img src="https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f" alt="portfolio" width="300"/>
-</a>
+</a> &nbsp;
 
 
 
