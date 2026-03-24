@@ -1,7 +1,7 @@
 
 ## Hi :wave:
 
-**Hello, my name is Peter. Welcome to my GitHub profile! I’m a typical bootcamper who came into coding through my cousin and YouTube. I don’t have a story where I started coding at 7 years old. I began at 39, working hard to improve every day and build new projects. Check out my work, and feel free to reach out if you'd like to connect!**  
+**Hello welcome to my GitHub**  
 
 #### :page_facing_up: -I am currently working on DABubble a Slack clone.
 #### :email: -Let's connect. info@peter-ediger.de
@@ -13,25 +13,13 @@
 
 #  :memo: Projects
 
-### Portfolio -My Frontend Portfolio 
-<a href="https://peter-ediger.de/">
-    <img src="https://github.com/user-attachments/assets/e5ac8d92-8143-4563-a23b-37d4547a353d" alt="portfolio-join" width="300"/> 
-</a> &nbsp;
-
----
-
-### Join -Task manager inspired by the Kanban System  
-<a href="https://join.peter-ediger.de/">
-    <img src="https://github.com/user-attachments/assets/b6e6d4dd-f39e-4e33-a734-33b520cac35f" alt="portfolio" width="300"/>
-</a> &nbsp;
 
 ---
 
 
-### Pollo Loco -  Jump and Run. Based on OOP.
+---
 
-<a href="https://pollo-loco.peter-ediger.de/">
-    <img src="https://github.com/user-attachments/assets/4794bd24-a301-48e8-817c-baecb45dacf9" alt="portfolio-join" width="300"/> 
-</a> &nbsp;
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
